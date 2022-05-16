@@ -24,7 +24,9 @@ An Enigma machine is a famous encryption machine used by the Germans during WWII
 # HOW IS MY APPICATION LOOK
 
 - Ecrypto Screen 
+
 ![image](https://user-images.githubusercontent.com/66384957/168700552-f315c039-44ea-43e9-b421-d80711e2d323.png)
 
 - Information Screen
+
 ![image](https://user-images.githubusercontent.com/66384957/168700626-8b6bab77-5beb-4cbe-9d4e-5b95276616ef.png)
