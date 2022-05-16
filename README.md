@@ -1,1 +1,5 @@
-enigma machine 
+ENIGMA MACHINE 
+
+WHAT IS ENIGMA MACHINE ? 
+
+An Enigma machine is a famous encryption machine used by the Germans during WWII to transmit coded messages. An Enigma machine allows for billions and billions of ways to encode a message, making it incredibly difficult for other nations to crack German codes during the war — for a time the code seemed unbreakable. Alan Turing and other researchers exploited a few weaknesses in the implementation of the Enigma code and gained access to German codebooks, and this allowed them to design a machine called a Bombe machine, which helped to crack the most challenging versions of Enigma. Some historians believe that the cracking of Enigma was the single most important victory by the Allied powers during WWII. Using information that they decoded from the Germans, the Allies were able to prevent many attacks. However, to avoid Nazi suspicion that they had insight to German communications, the Allies had to allow some attacks to be carried out despite the fact that they had the knowledge to stop them.
