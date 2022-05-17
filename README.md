@@ -20,6 +20,9 @@ An Enigma machine is a famous encryption machine used by the Germans during WWII
 
 - python version : 3.x
 - pygame : 2.1.2
+ 
+ load requirements quickly
+- requirements : pip install -r requirements.txt
 
 # HOW IS MY APPICATION LOOK
 
