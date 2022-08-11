@@ -24,7 +24,7 @@ An Enigma machine is a famous encryption machine used by the Germans during WWII
  load requirements quickly
 - requirements : pip install -r requirements.txt
 
-# HOW IS MY APPICATION LOOK
+# HOW IS MY APPLICATION LOOK
 
 - Ecrypto Screen 
 
